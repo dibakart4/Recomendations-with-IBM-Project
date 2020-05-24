@@ -1,4 +1,5 @@
 # Recommendations-with-IBM
+![Screenshot (866)](https://user-images.githubusercontent.com/55661515/82121598-f68f2700-97ab-11ea-81f3-83bb014b9583.png)
 For this project I analyze the interactions that users have with articles on the IBM Watson Studio platform, and make recommendations to them about new articles I think they will like. 
 
 My project is divided into the following tasks
